@@ -2,7 +2,7 @@
 
 <img align="right" width="130" src="https://media0.giphy.com/media/yOCzPNwpMMlFUlfLk8/giphy.gif" alt="Pixel cat artwork" />
 
-### hey, i'm Rizal! ✦
+## hey, i'm Rizal! ✦
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Space+Mono&amp;size=16&amp;duration=2700&amp;pause=1100&amp;color=D6C7BA&amp;vCenter=true&amp;width=350&amp;height=28&amp;lines=Web+%26+mobile%2C+mostly.;Backend%2C+security+%26+data.;Probably+debugging+something..." />
@@ -30,14 +30,17 @@ I'm **Rizal Ahmad Doni**, a developer from Indonesia. I enjoy building practical
 
 ### 03 / beyond the keyboard
 
-☕ Coffee breaks, 🎮 games, 🎧 music, and the occasional tech rabbit hole.
-
-### 04 / currently listening
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=kyourazz&amp;count=1&amp;width=320&amp;theme=dark&amp;now_playing=1&amp;header=0&amp;profile=off&amp;time=0&amp;progress=0&amp;radius=4&amp;accent_color=C5A18C" />
-  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=kyourazz&amp;count=1&amp;width=320&amp;theme=light&amp;now_playing=1&amp;header=0&amp;profile=off&amp;time=0&amp;progress=0&amp;radius=4&amp;accent_color=967462" width="320" alt="Spotify recently played" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=kyourazz&amp;duration=1&amp;theme=dark&amp;accent_color=C5A18C" />
+  <img align="right" width="340" src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=kyourazz&amp;duration=1" alt="Spotify recently played" />
 </picture>
+
+☕ Coffee breaks, <br>
+🎮 games, <br>
+🎧 music, <br>
+and the occasional tech rabbit hole.
+
+<br clear="right" />
 
 ---
 
