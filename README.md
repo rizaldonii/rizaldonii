@@ -34,21 +34,10 @@ I'm **Rizal Ahmad Doni**, a developer from Indonesia. I enjoy building practical
 
 ### 04 / currently listening
 
-<!--
-SPOTIFY SETUP:
-1. Buka browser: https://spotify-recently-played.jeffreyca.workers.dev/
-2. Klik "Connect with Spotify" dan login akun Spotify Anda.
-3. Salin Spotify User ID Anda (string angka/karakter unik dari hasil setup).
-4. Ganti 'YOUR_SPOTIFY_USER_ID' di kedua link di bawah ini dengan ID tersebut.
-5. Hapus tanda comment <!-- dan --> agar widget langsung tampil di profil.
--->
-
-<!--
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=YOUR_SPOTIFY_USER_ID&amp;count=1&amp;width=320&amp;theme=dark&amp;now_playing=1&amp;header=0&amp;profile=off&amp;time=0&amp;progress=0&amp;radius=4&amp;accent_color=C5A18C" />
-  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=YOUR_SPOTIFY_USER_ID&amp;count=1&amp;width=320&amp;theme=light&amp;now_playing=1&amp;header=0&amp;profile=off&amp;time=0&amp;progress=0&amp;radius=4&amp;accent_color=967462" width="320" alt="Spotify currently playing" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=kyourazz&amp;count=1&amp;width=320&amp;theme=dark&amp;now_playing=1&amp;header=0&amp;profile=off&amp;time=0&amp;progress=0&amp;radius=4&amp;accent_color=C5A18C" />
+  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=kyourazz&amp;count=1&amp;width=320&amp;theme=light&amp;now_playing=1&amp;header=0&amp;profile=off&amp;time=0&amp;progress=0&amp;radius=4&amp;accent_color=967462" width="320" alt="Spotify recently played" />
 </picture>
--->
 
 ---
 
