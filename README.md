@@ -2,7 +2,7 @@
 
 <img align="right" width="130" src="https://media0.giphy.com/media/yOCzPNwpMMlFUlfLk8/giphy.gif" alt="Pixel cat artwork" />
 
-## hey, i'm Rizal! ✦
+### hey, i'm Rizal! ✦
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Space+Mono&amp;size=16&amp;duration=2700&amp;pause=1100&amp;color=D6C7BA&amp;vCenter=true&amp;width=350&amp;height=28&amp;lines=Web+%26+mobile%2C+mostly.;Backend%2C+security+%26+data.;Probably+debugging+something..." />
