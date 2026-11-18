@@ -11,6 +11,8 @@
 
 I'm **Rizal Ahmad Doni**, a developer from Indonesia. I enjoy building practical software, from web and mobile experiences to backend APIs, data, and security.
 
+🌱 *currently building:* a desktop media player for language learning.
+
 <img src="https://komarev.com/ghpvc/?username=rizaldonii&amp;label=profile+views&amp;color=9c8575&amp;style=flat" alt="GitHub profile views counter" />
 
 ### 01 / selected work
