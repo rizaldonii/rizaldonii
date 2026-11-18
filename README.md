@@ -44,6 +44,18 @@ and the occasional tech rabbit hole.
 
 <br clear="right" />
 
+### 04 / get in touch
+
+<a href="mailto:rizaldonii24@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/rizaldonii24@gmail.com-white?style=for-the-badge&logo=gmail&logoColor=%23EA4335&logoSize=auto&labelColor=ece5df" alt="Gmail Badge"/>
+</a>
+<a href="https://instagram.com/rizaldoniii" target="_blank">
+  <img src="https://img.shields.io/badge/@rizaldonii-white?style=for-the-badge&logo=instagram&logoColor=%23E4405F&logoSize=auto&labelColor=ece5df" alt="Instagram Badge"/>
+</a>
+<a href="https://discord.com/users/274536787026903040" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-white?style=for-the-badge&logo=discord&logoColor=5865F2&logoSize=auto&labelColor=ece5df" alt="Discord Badge"/>
+</a>
+
 ---
 
 <sub>thanks for visiting my little corner of GitHub. ✦</sub>
