@@ -26,15 +26,28 @@ I'm **Rizal Ahmad Doni**, a developer from Indonesia. I enjoy building practical
 
 ### 02 / my toolbox
 
-**Mobile** &nbsp; `Flutter` · `Dart` · `Firebase`  
-**Web & APIs** &nbsp; `React` · `TypeScript` · `Laravel` · `PHP` · `Python` · `FastAPI`  
-**Data** &nbsp; `MySQL` · `Firestore`
+**Mobile**  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+**Web & APIs**  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+
+**Data**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Firestore](https://img.shields.io/badge/Firestore-FFA611?style=flat&logo=firebase&logoColor=white)
 
 ### 03 / beyond the keyboard
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=kyourazz&amp;duration=1&amp;theme=dark&amp;accent_color=C5A18C" />
-  <img align="right" width="340" src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=kyourazz&amp;duration=1" alt="Spotify recently played" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=kyourazz&amp;count=3&amp;duration=1&amp;theme=dark&amp;accent_color=C5A18C" />
+  <img align="right" width="340" src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=kyourazz&amp;count=3&amp;duration=1" alt="Spotify recently played" />
 </picture>
 
 ☕ Coffee breaks, <br>
