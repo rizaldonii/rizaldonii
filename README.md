@@ -1,13 +1,8 @@
 <!-- rizaldonii / pixel diary — GitHub profile README v2 -->
 
-<img align="right" width="130" src="https://media0.giphy.com/media/yOCzPNwpMMlFUlfLk8/giphy.gif" alt="Pixel cat artwork" />
+<img align="right" width="160" src="https://media0.giphy.com/media/yOCzPNwpMMlFUlfLk8/giphy.gif" alt="Pixel cat artwork" />
 
-### hey, i'm Rizal! ✦
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Space+Mono&amp;size=16&amp;duration=2700&amp;pause=1100&amp;color=D6C7BA&amp;vCenter=true&amp;width=350&amp;height=28&amp;lines=Web+%26+mobile%2C+mostly.;Backend%2C+security+%26+data.;Probably+debugging+something..." />
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&amp;size=16&amp;duration=2700&amp;pause=1100&amp;color=756458&amp;vCenter=true&amp;width=350&amp;height=28&amp;lines=Web+%26+mobile%2C+mostly.;Backend%2C+security+%26+data.;Probably+debugging+something..." alt="Web and mobile development, backend, security and data. Probably debugging something." />
-</picture>
+### <font size="6">hey, i'm Rizal! ✦</font>
 
 I'm **Rizal Ahmad Doni**, a developer from Indonesia. I enjoy building practical software, from web and mobile experiences to backend APIs, data, and security.
 
@@ -48,7 +43,7 @@ and the occasional tech rabbit hole.
   <img src="https://img.shields.io/badge/rizaldonii24@gmail.com-white?style=for-the-badge&logo=gmail&logoColor=%23EA4335&logoSize=auto&labelColor=ece5df" alt="Gmail Badge"/>
 </a>
 <br />
-<a href="https://instagram.com/rizaldoniii" target="_blank">
+<a href="https://instagram.com/rizaldonii" target="_blank">
   <img src="https://img.shields.io/badge/@rizaldonii-white?style=for-the-badge&logo=instagram&logoColor=%23E4405F&logoSize=auto&labelColor=ece5df" alt="Instagram Badge"/>
 </a>
 <a href="https://discord.com/users/274536787026903040" target="_blank">
