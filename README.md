@@ -33,7 +33,7 @@ I'm **Rizal Ahmad Doni**, a developer from Indonesia. I enjoy building practical
 </picture>
 
 📺 800+ Anime watched since 2017 <br>
-⚔️ Genshin Impact *(better than most of you)* <br>
+🎮 Genshin Impact *(better than most of you)* <br>
 🇯🇵 JLPT N4 in July 2026 <br>
 🎯 Pursuing JLPT N2 in December 2026
 
