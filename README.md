@@ -2,7 +2,7 @@
 
 <img align="right" width="160" src="https://media0.giphy.com/media/yOCzPNwpMMlFUlfLk8/giphy.gif" alt="Pixel cat artwork" />
 
-### <font size="6">hey, i'm Rizal! ✦</font>
+### <font size="7">こんにちは, i'm Rizal! ✦</font>
 
 I'm **Rizal Ahmad Doni**, a developer from Indonesia. I enjoy building practical software, from web and mobile experiences to backend APIs, data, and security.
 
@@ -25,17 +25,17 @@ I'm **Rizal Ahmad Doni**, a developer from Indonesia. I enjoy building practical
 **Web & APIs** &nbsp; ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)  
 **Data** &nbsp; ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Firestore](https://img.shields.io/badge/Firestore-FFA611?style=flat&logo=firebase&logoColor=white)
 
-### 03 / beyond the keyboard
+### 03 / interests
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=kyourazz&amp;count=3&amp;duration=1&amp;theme=dark&amp;accent_color=C5A18C" />
   <img align="right" width="340" src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=kyourazz&amp;count=3&amp;duration=1" alt="Spotify recently played" />
 </picture>
 
-☕ Coffee breaks, <br>
-🎮 games, <br>
-🎧 music, <br>
-and the occasional tech rabbit hole.
+📺 800+ Anime watched since 2017 <br>
+⚔️ Genshin Impact *(better than most of you)* <br>
+🇯🇵 JLPT N4 in July 2026 <br>
+🎯 Pursuing JLPT N2 in December 2026
 
 ### 04 / get in touch
 
